@@ -35,9 +35,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Oratio quâ auspicatissimum serenissimi principis Caroli, reditum ex Hispanijs celebrauit Georgius He
+
 #####Body#####
-Oratio quâ auspicatissimum serenissimi principis Caroli, reditum ex Hispanijs celebrauit Georgius He
+
+1. Veneranda Capita,
+Viri grauissimi,
+Pubes Lectissima.
+
 **Types of content**
 
   * There are 8 **verse** lines!
